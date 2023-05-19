@@ -1,0 +1,16 @@
+E:\alena\Документы\Visual Studio 2019\test1\test1\bin\Debug\net5.0\lab2_test.exe
+E:\alena\Документы\Visual Studio 2019\test1\test1\bin\Debug\net5.0\lab2_test.deps.json
+E:\alena\Документы\Visual Studio 2019\test1\test1\bin\Debug\net5.0\lab2_test.runtimeconfig.json
+E:\alena\Документы\Visual Studio 2019\test1\test1\bin\Debug\net5.0\lab2_test.runtimeconfig.dev.json
+E:\alena\Документы\Visual Studio 2019\test1\test1\bin\Debug\net5.0\lab2_test.dll
+E:\alena\Документы\Visual Studio 2019\test1\test1\bin\Debug\net5.0\ref\lab2_test.dll
+E:\alena\Документы\Visual Studio 2019\test1\test1\bin\Debug\net5.0\lab2_test.pdb
+E:\alena\Документы\Visual Studio 2019\test1\test1\obj\Debug\net5.0\lab2_test.csprojAssemblyReference.cache
+E:\alena\Документы\Visual Studio 2019\test1\test1\obj\Debug\net5.0\lab2_test.GeneratedMSBuildEditorConfig.editorconfig
+E:\alena\Документы\Visual Studio 2019\test1\test1\obj\Debug\net5.0\lab2_test.AssemblyInfoInputs.cache
+E:\alena\Документы\Visual Studio 2019\test1\test1\obj\Debug\net5.0\lab2_test.AssemblyInfo.cs
+E:\alena\Документы\Visual Studio 2019\test1\test1\obj\Debug\net5.0\lab2_test.csproj.CoreCompileInputs.cache
+E:\alena\Документы\Visual Studio 2019\test1\test1\obj\Debug\net5.0\lab2_test.dll
+E:\alena\Документы\Visual Studio 2019\test1\test1\obj\Debug\net5.0\ref\lab2_test.dll
+E:\alena\Документы\Visual Studio 2019\test1\test1\obj\Debug\net5.0\lab2_test.pdb
+E:\alena\Документы\Visual Studio 2019\test1\test1\obj\Debug\net5.0\lab2_test.genruntimeconfig.cache
